@@ -42,3 +42,5 @@ An REST application used to collect, monitor and visualize data from user traini
    - Run SpringBoot project
   
 #### Author
+
+   [Mateusz Legieć](https://github.com/MateuszLegiec)
